@@ -1,5 +1,8 @@
-HuffPost-Tech-Jobs
-==================
+Software Engineering
+====================
+Huffington Post Front End Engineer
+----------------------------------
+New York, NY
 
 Apply to Developer@HuffingtonPost.com with your Github URL and resume.
 
@@ -9,15 +12,30 @@ As a member of the HuffPost Tech Team you will start launching new software ASAP
 
 HuffPost Tech Team members are hardcore software development and design professionals who take user interface design and coding seriously but have a great time while doing so. We don't know the difference between work and play. Not only do we have healthy snacks, nap rooms, and a ping pong table but a Minecraft server as well. The HuffPost Tech Team is small enough that you get know know everyone but large enough that you'll find a great work-life balance.
 
-Roles
------
-* [Frontend Engineer](HuffPost-Frontend-Engineer.md)
-* [HuffPost Live - Frontend Engineer](HuffPost-Live-Frontend-Engineer.md)
-* [Backend Engineer](HuffPost-Backend-Engineer.md)
-* [HuffPost Live - Backend Engineer](HuffPost-Live-Backend-Engineer.md)
-* [Android Engineer](HuffPost-Android-Engineer.md)
-* [iOS Engineer](HuffPost-iOS-Engineer.md)
-* [UNIX Systems Engineer](HuffPost-UNIX-Sys-Engineer.md)
+Responsibilities
+----------------
+* Work with world class editors and designers to maintain and create the next generation HuffPost's responsive web applications
+* Build efficient and reusable frontend abstractions, systems, and APIs
+* Identify and address performance bottlenecks
+* Participate in design and code reviews
+* Stay up-to-date on the innovations in web software and technology
+* Ensure HuffPost takes advantage of the best practices for frontend engineering
+
+General Requirements
+--------------------
+* Experience with ticketing systems like JIRA
+* Experience with Test Driven Development and Continuous Integration
+* Experience with Agile Development
+* Experience with MySQL, Unix, and Open Source Software
+* Experience with Design Patterns, Object Oriented Programming, and Functional Programming
+* Sense of humor
+* Strong interest in journalism, media, or any of the liberal arts
+
+Specific Requirements
+---------------------
+* Expertise and experience with HTML, CSS, Javascript, and jQuery.
+* Expertise and experience with MVC frameworks like Backbone, KnockoutJS, and JavascriptMVC
+* Expertise and experience with web standards, CSS-based design, and cross-browser compatibility
 
 Location
 --------
