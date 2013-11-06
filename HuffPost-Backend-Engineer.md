@@ -33,8 +33,8 @@ General Requirements
 
 Specific Requirements
 ---------------------
-* Expertise and experience with any of these languages: Ruby, Scala, Java, Erlang.
-* Expertise and experience with any of these frameworks: Play2, Scalatra, Rails, Hibernate, Spring.
+* Expertise and experience with any of these languages: PHP, Ruby, Scala, Java, Erlang.
+* Expertise and experience with any of these frameworks: Kohana, Play2, Scalatra, Rails, Hibernate, Spring.
 * Expertise and experience with SQL and NOSql data stores, building REST APIs, and caching technologies (Memcached, Redis)
 
 Location
