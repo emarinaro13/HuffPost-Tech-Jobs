@@ -1,6 +1,6 @@
 Software Engineering
 ====================
-Huffington Post Engineer Director
+Huffington Post Engineering Manager / Director
 ---------------------------------
 New York, NY
 
@@ -19,6 +19,18 @@ Responsibilities
 * Take advantage of innovations in Internet software and modern technology stacks
 * Lead HuffPost best practices for backend engineering
 
+Specific Requirements
+---------------------
+* Expertise and experience with with any of these languages: Ruby, Scala, Java, Erlang.
+* Expertise and experience with any of these frameworks: Play2, Scalatra, Rails, Hibernate, Spring.
+* Expertise and experience with SQL and NOSql data stores, building REST APIs, and caching technologies (Memcached, Redis)
+* Expertise and experience with HTML, CSS, Javascript, and jQuery.
+* Expertise and experience with MVC frameworks like Backbone, KnockoutJS, and JavascriptMVC
+* Expertise and experience with web standards, CSS-based design, and cross-browser compatibility
+
+
+
+
 General Requirements
 --------------------
 * Several years of experience leading small teams
@@ -30,14 +42,7 @@ General Requirements
 * Sense of humor
 * Strong interest in journalism, media, or any of the liberal arts
 
-Specific Requirements
----------------------
-* Expertise and experience with with any of these languages: Ruby, Scala, Java, Erlang.
-* Expertise and experience with any of these frameworks: Play2, Scalatra, Rails, Hibernate, Spring.
-* Expertise and experience with SQL and NOSql data stores, building REST APIs, and caching technologies (Memcached, Redis)
-* Expertise and experience with HTML, CSS, Javascript, and jQuery.
-* Expertise and experience with MVC frameworks like Backbone, KnockoutJS, and JavascriptMVC
-* Expertise and experience with web standards, CSS-based design, and cross-browser compatibility
+
 
 Location
 --------
